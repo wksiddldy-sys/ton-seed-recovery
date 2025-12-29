@@ -9,4 +9,3 @@ services:
       dockerfile: Dockerfile
     environment:
       SEED: "1.autumn 2. grant 3.mask 4.reason 5.parrot 6.company 7.demise 8.middle 9.silent 10.mango 11.drive 12.? 13.pen 14.glory 15.demand 16.drastic 17.shallow 18.giant 19.pole 20.trim 21.uniform 22.eager 23.invite 24.?"
-docker compose up
